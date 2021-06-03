@@ -1,0 +1,19 @@
+{
+  "orgName": "Subham LWC",
+  "edition": "Enterprise",
+  "features": ["Communities", "ServiceCloud"],
+  "settings": {
+      "communitiesSettings": {
+          "enableNetworksEnabled": true
+      },
+      "mobileSettings": {
+          "enableS1EncryptedStoragePref2": true
+      },
+      "omniChannelSettings": {
+          "enableOmniChannel": true
+      },
+      "caseSettings": {
+          "systemUserEmail": "subham.1993.17@gmail.com"
+      }
+  }
+}

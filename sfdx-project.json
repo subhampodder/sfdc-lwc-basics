@@ -1,0 +1,11 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://myorgcom-a-dev-ed.lightning.force.com/",
+  "sourceApiVersion": "51.0"
+}
